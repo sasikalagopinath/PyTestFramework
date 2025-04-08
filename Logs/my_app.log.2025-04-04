@@ -1,0 +1,21 @@
+2025-04-04 17:22:02,436: Login: INFO ************* Test_001 verifying home title**********
+2025-04-04 17:22:04,981: Login: INFO ************* Getting Title =Welcome: Mercury Tours
+2025-04-04 17:22:05,147: Login: INFO HomePageTitle Test Passed
+2025-04-04 17:22:05,148: Login: ERROR HomePageTitle Test Failed
+2025-04-04 17:22:05,269: Login: INFO ******* Ending Home Page Title Test **********
+2025-04-04 17:22:06,619: Login: INFO ************* Test_002 verifying home title**********
+2025-04-04 17:22:09,893: Login: INFO ************* Providing Username**********
+2025-04-04 17:22:10,060: Login: INFO ************* Providing Password**********
+2025-04-04 17:22:10,258: Login: INFO ************* Getting Title =Welcome: Mercury Tours
+2025-04-04 17:24:14,288: Login: INFO ************* Test_001 verifying home title**********
+2025-04-04 17:24:15,611: Login: INFO ************* Getting Title =Welcome: Mercury Tours
+2025-04-04 17:24:15,801: Login: INFO HomePageTitle Test Passed
+2025-04-04 17:24:15,802: Login: ERROR HomePageTitle Test Failed
+2025-04-04 17:24:16,015: Login: INFO ******* Ending Home Page Title Test **********
+2025-04-04 17:24:17,490: Login: INFO ************* Test_002 verifying home title**********
+2025-04-04 17:24:20,807: Login: INFO ************* Providing Username**********
+2025-04-04 17:24:20,987: Login: INFO ************* Providing Password**********
+2025-04-04 17:24:22,370: Login: INFO ************* Getting Title =Login: Mercury Tours
+2025-04-04 17:24:22,500: Login: INFO Login Test Passed
+2025-04-04 17:24:22,501: Login: ERROR Login Test Failed
+2025-04-04 17:24:22,652: Login: INFO ******* Ending Login Test **********
